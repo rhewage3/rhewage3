@@ -21,7 +21,7 @@
 
 
 
-<img src="https://media2.giphy.com/media/G0vYU697uKl0IiIJO2/giphy.gif"/>
+<img src="https://media2.giphy.com/media/G0vYU697uKl0IiIJO2/giphy.gif"/ width="100px" height="100px">
 
 
 <h3 align="left">Connect with me:</h3>
