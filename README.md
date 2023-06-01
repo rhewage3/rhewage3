@@ -7,12 +7,6 @@
 
 - 💬 Ask me about **Front End, Java, Python**
 
-
-
-https://github.com/rhewage3/rhewage3/assets/123268275/3a71ba71-cc0c-4d1c-b75e-670d3dfab055
-
-
-
 - 📫 How to reach me **ranvinuh@gmail.com**
 
 - ⚡ Fun fact **I like Motorsports**
