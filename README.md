@@ -59,6 +59,5 @@
 <br>
 <br>
 <br>
-<div align="center">
-<img src="https://github.com/rhewage3/rhewage3/assets/123268275/f8530d99-6717-4239-9294-865a5ee5f580
-"/></div>
+![giphy](https://github.com/rhewage3/rhewage3/assets/123268275/40642756-08ba-48b3-8af7-89fc1a506bb2)
+
