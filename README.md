@@ -1,3 +1,6 @@
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f3638373437343730373333613266326636393265373036393665363936643637326536333666366432663666](https://github.com/rhewage3/rhewage3/assets/123268275/61d8381f-5654-4d79-8fc2-ce0c3159c6f8)
+
+
 <h1 align="center">Hi 👋, I'm Ranvinu Hewage</h1>
 <h3 align="center">I’m currently following the Software Engineering degree offered by the University of Westminster (UK) at the Informatics Institute of Technology. I am a passionate, hard-working, and responsible individual with proven leadership and team management skills integrated with critical thinking abilities.</h3>
 
