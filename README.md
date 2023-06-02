@@ -22,7 +22,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhewage3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhewage3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Readme Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhewage3&theme=tokyonight&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhewage3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 
