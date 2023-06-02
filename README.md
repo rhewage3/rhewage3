@@ -60,4 +60,5 @@
 <br>
 <br>
 <div align="center">
-<img src="https://media3.giphy.com/media/6oB3X3W6MYM3C/giphy.gif"/></div>
+<img src="![giphy](https://github.com/rhewage3/rhewage3/assets/123268275/f8530d99-6717-4239-9294-865a5ee5f580)
+"/></div>
