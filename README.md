@@ -60,5 +60,5 @@
 <br>
 <br>
 <div align="center">
-<img src="![giphy](https://github.com/rhewage3/rhewage3/assets/123268275/f8530d99-6717-4239-9294-865a5ee5f580)
+<img src="https://github.com/rhewage3/rhewage3/assets/123268275/f8530d99-6717-4239-9294-865a5ee5f580
 "/></div>
