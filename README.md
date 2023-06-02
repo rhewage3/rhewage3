@@ -73,7 +73,6 @@
 <br>
 <br>
 
-![Snake animation](https://github.com/rhewage3/rhewage3/blob/output/github-contribution-grid-snake.svg)
 
 
 
