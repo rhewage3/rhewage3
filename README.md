@@ -25,7 +25,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div style="display: flex; justify-content: center;">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</div>
+
 
 
 <h3 align="left">Connect with me:</h3>
