@@ -59,5 +59,10 @@
 <br>
 <br>
 <br>
-![giphy](https://github.com/rhewage3/rhewage3/assets/123268275/40642756-08ba-48b3-8af7-89fc1a506bb2)
+
+<p align="center">
+  <img src="https://github.com/rhewage3/rhewage3/blob/main/assets/123268275/75308c4b-a970-4ebe-93bf-3854cc7a33e1.gif?raw=true" alt="giphy" />
+</p>
+
+
 
