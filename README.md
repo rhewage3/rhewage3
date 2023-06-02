@@ -1,10 +1,7 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f3638373437343730373333613266326636393265373036393665363936643637326536333666366432663666](https://github.com/rhewage3/rhewage3/assets/123268275/61d8381f-5654-4d79-8fc2-ce0c3159c6f8)
 
 
-![rhewage3's Stats](https://github-readme-stats.vercel.app/api?username=rhewage3&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
-![rhewage3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhewage3&theme=synthwave&hide_border=false)
-<br>
-![rhewage3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhewage3&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+
 
 
 
@@ -27,12 +24,12 @@
 
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhewage3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhewage3&theme=tokyonight&hide_border=false"><br/>
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=rhewage3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Readme Stats" /><br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhewage3&theme=synthwave&show_icons=true&hide_border=false&layout=compact"> <br>
 </p>
 
+![rhewage3's Stats](https://github-readme-stats.vercel.app/api?username=rhewage3&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+![rhewage3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhewage3&theme=synthwave&hide_border=false)
+<br>
 
 
 
