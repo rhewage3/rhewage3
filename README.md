@@ -45,4 +45,5 @@
 <br>
 <br>
 <br>
-<img src="https://media3.giphy.com/media/6oB3X3W6MYM3C/giphy.gif"/>
+<div style="display: flex; justify-content: center;">
+<img src="https://media3.giphy.com/media/6oB3X3W6MYM3C/giphy.gif"/></div>
