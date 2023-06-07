@@ -26,9 +26,7 @@
 - ⚡ Fun fact **I like Motorsports**
 
 
-<a href="ranvinu_hewage.pdf" download style="background-color: #2f2c3b; color: #ff00ff; padding: 10px 20px; border-radius: 4px; text-decoration: none; font-weight: bold; transition: background-color 0.3s, color 0.3s;">
-  Download CV
-</a>
+
 
 
 
