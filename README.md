@@ -12,6 +12,10 @@
 
 
 
+///////////////////////////////////////////
+
+
+
 
 <h3 align="center">I’m currently following the Software Engineering degree offered by the University of Westminster (UK) at the Informatics Institute of Technology. I am a passionate, hard-working, and responsible individual with proven leadership and team management skills integrated with critical thinking abilities.</h3>
 
